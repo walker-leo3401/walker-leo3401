@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey, I'm Leo (@walker-leo3401)
 
-<!--
-**walker-leo3401/walker-leo3401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Berlin, working at **Tech Labs**.
 
-Here are some ideas to get you started:
+I build APIs, tune database performance, and keep services running reliably.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+- Daily work in **Go** and **Python (FastAPI)**
+- Data persistence and caching with **PostgreSQL** and **Redis**
+- Containerization and local dev workflows using **Docker**
+- Currently digging deeper into distributed tracing and DB indexing strategies
+
+#### Tech Stack
+- **Languages:** Go, Python, SQL, Bash
+- **Databases & Storage:** PostgreSQL, Redis
+- **Frameworks:** FastAPI, Gin
+- **Tools:** Docker, Git, Linux, GitHub Actions
+
+#### Connect
+- Open an issue/PR on any public repo or find me on [LinkedIn](https://linkedin.com).
